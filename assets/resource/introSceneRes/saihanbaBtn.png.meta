@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "e66f379c-349c-45c0-852b-a2f27c86c459",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 501,
+  "height": 82,
+  "platformSettings": {},
+  "subMetas": {
+    "saihanbaBtn": {
+      "ver": "1.0.4",
+      "uuid": "406d619a-107e-41e6-ae81-0003b4ef3451",
+      "rawTextureUuid": "e66f379c-349c-45c0-852b-a2f27c86c459",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 5,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 501,
+      "height": 72,
+      "rawWidth": 501,
+      "rawHeight": 82,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

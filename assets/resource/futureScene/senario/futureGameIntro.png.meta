@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "5e981112-0d2b-4ead-bd77-54b69bd4f83e",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 1280,
+  "height": 720,
+  "platformSettings": {},
+  "subMetas": {
+    "futureGameIntro": {
+      "ver": "1.0.4",
+      "uuid": "c2758447-8ca9-48f4-87af-b7ed6c1ed36c",
+      "rawTextureUuid": "5e981112-0d2b-4ead-bd77-54b69bd4f83e",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 1280,
+      "height": 720,
+      "rawWidth": 1280,
+      "rawHeight": 720,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}
